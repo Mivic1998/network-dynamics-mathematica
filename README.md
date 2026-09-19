@@ -104,11 +104,20 @@ This project was originally completed as part of the **ECON0114** module during 
 
 I have included it in my programming portfolio as an example of my earlier use of programming for computational modelling, algorithmic problem solving and quantitative analysis.
 
-## Running the Project
+## Viewing and Running the Project
 
-The analysis is contained in `network-dynamics-analysis.nb`, a Wolfram Mathematica notebook included in this repository.
+The complete executable analysis is contained in
+[`network-dynamics-analysis.nb`](network-dynamics-analysis.nb).
 
-Open the notebook using Wolfram Mathematica and evaluate the relevant cells to reproduce the simulations and analysis.
+Because the Mathematica notebook is relatively large, GitHub may not render
+it directly in the browser.
+
+A PDF version of the complete analysis is also available:
+
+**[View / download the full analysis (PDF)](network-dynamics-analysis.pdf)**
+
+To run or modify the analysis, download `network-dynamics-analysis.nb` and
+open it using Wolfram Mathematica.
 
 ## Reference
 
