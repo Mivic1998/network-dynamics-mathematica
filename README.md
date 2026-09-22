@@ -1,6 +1,6 @@
 # Network Dynamics & Centrality Analysis
 
-A computational network analysis project developed in **Wolfram Mathematica** during my Economics degree at University College London (UCL).
+This project is a computational network analysis developed in **Wolfram Mathematica** during my Economics degree at University College London (UCL).
 
 The project explores how network structure affects the importance of individual nodes and links. Networks are generated and represented as adjacency matrices, then analysed using simulation, linear algebra and statistical methods.
 
